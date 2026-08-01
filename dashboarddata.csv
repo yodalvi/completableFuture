@@ -1,0 +1,11 @@
+ClaimId,ClaimStatus,PaymentStatus,FraudStatus,NotificationMessage
+1,SUBMITTED,COMPLETED,PASSED,Payment completed email sent
+2,VALIDATED,HOLD,AWAITING_RESPONSE,Payment on hold email sent
+3,SUBMITTED,COMPLETED,PASSED,Claim submitted email sent
+4,REJECTED,FAILED,FAILED,Claim rejected email sent
+5,VALIDATED,COMPLETED,PASSED,Payment completed email sent
+6,SUBMITTED,HOLD,AWAITING_RESPONSE,Payment on hold email sent
+7,VALIDATED,COMPLETED,PASSED,Claim validated email sent
+8,REJECTED,FAILED,FAILED,Fraud check failed email sent
+9,SUBMITTED,COMPLETED,PASSED,Payment completed email sent
+10,VALIDATED,HOLD,AWAITING_RESPONSE,Fraud check awaiting response email sent
